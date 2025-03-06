@@ -1,12 +1,12 @@
-#Project Title
+# Project Title
 
    Example Project
    
-##Project Description
+## Project Description
 
    Trial and Error Readme
    
-##Features
+## Features
 
    markdown file creation
    Adding content
